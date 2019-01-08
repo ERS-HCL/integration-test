@@ -1,4 +1,4 @@
-## How to Automate Integration Test Suit
+## How to Automate Integration Test Suite
 
 ## Background
 

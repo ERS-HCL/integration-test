@@ -1,4 +1,4 @@
-## How to Automate Integration Test Suite
+## How to Automate Integration Test Suite using SoapUI
 
 ## Background
 

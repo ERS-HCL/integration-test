@@ -1,0 +1,17 @@
+swagger: "2.0"
+info:
+  version: "1.0.0"
+  title: "Hello World"
+host: "localhost:8080"
+basePath: "/"
+schemes:
+- "http"
+paths:
+  /helloworld:
+    get:
+      operationId: "sayHello"
+      produces:
+      - "application/text"
+      responses:
+        200:
+          description: "successful operation"
